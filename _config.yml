@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jijopu.github.io
+title: J's Musings
+tagline: Random thoughts on science, technology and education
+description: My site to share my thoughts
+paginate: 5
