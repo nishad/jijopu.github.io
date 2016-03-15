@@ -3,7 +3,8 @@ published: true
 title: Career Options for Physics PG Students
 layout: post
 ---
-#Opportunities ahead
+Opportunities ahead
+=================
 
 
 Many students who take up higher studies in physics are often unaware of the various opportunities that await them. Even if they do, they find it difficult to surmount such barriers as national level competitions. Many a times it is their lack of basic undestanding of the subject, and in other cases their lack of prepartion that prevent them from scoring well in such exams. In order to soar high, bulding a sound knowledge of the basics is advisable.
