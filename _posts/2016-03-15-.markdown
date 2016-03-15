@@ -4,6 +4,7 @@ title: യാന്ത്രികമാകുമോ ജീവിതം?
 layout: post
 tags: [Artificial, Intelligence, Future, Machine, Learning, Robotics, Malayalam, Blog]
 categories: [Technology]
+permalink: ai
 ---
 >നാണയപ്പെരുപ്പവും, ഇന്ധനവിലയും കുറഞ്ഞിട്ടും, മസാല ദോശയുടെ വില കുറയാത്തത് യന്ത്രവൽക്കരണത്തിന്റെ അഭാവം മൂലം – റിസർവ് ബാങ്ക് ഗവർണർ, രഘുറാം രാജൻ!
 
