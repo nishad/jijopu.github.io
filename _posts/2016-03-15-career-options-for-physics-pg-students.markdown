@@ -2,6 +2,9 @@
 published: true
 title: Career Options for Physics PG Students
 layout: post
+tags: [CSIR, UGC, NET, Physical, Sciences, Physics, MSc, Career]
+categories: [Career]
+permalink: physcareer
 ---
 Opportunities ahead
 =================
