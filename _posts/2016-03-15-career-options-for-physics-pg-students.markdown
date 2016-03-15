@@ -36,21 +36,24 @@ Bharat Heavy Electricals Limited (BHEL),
 National Thermal Power Corporation (NTPC).
 We will discuss a few competitive exams that will launch your professional career in physics, either in academia or in research. If you can reach the level of competency to qualify any one of these, others in the list are also within your reach.
 
-##The JEST Exam
+The JEST Exam
+-----------------------
 
 
 Applicants seeking admission  for a Ph.D / Integrated Ph.D Programme in Physics or Theoretical Computer Science or Neuroscience in  one  of the Participating Institutes may appear for the Joint Entrance Screening Test (JEST). Participating Institutes have their own eligibility criteria. Applicants who are expected to complete their final examinations by August of each year are also eligible to appear for the JEST exam of that year. Basic requirement is M.Sc. in Physics or related disciplines. However, talented final year B.Sc. and first year M.Sc. in Physics / Electronics / Astronomy / Applied Mathematics students are also eligible to apply for select courses at select places. More details can be obtained from the website www.jest.org.in that offers the application form, exam schedule, syllabus and previous question papers.
 
  
+The GATE Exam
+-----------------------
 
-##The GATE Exam
 
 
 The Indian Institute of Science (IISc) and seven Indian Institutes of Technology (IITs at Bombay, Delhi, Guwahati, Kanpur, Kharagpur, Madras and Roorkee) jointly administer the conduct of GATE. The operations related to GATE in each of the 8 zones are managed by a zonal GATE Office at the IITs or IISc. A valid GATE score is essential for obtaining financial assistance during Master’s programs and direct Doctoral programs in Engineering/Technology/Architecture, and Doctoral programs in relevant branches of Science in Institutes supported by the MHRD or other Government agencies. If admission is secured to any such institution following the MHRD guidelines, candidates can avail scholarship/assistance for their Masters or PhD study.
 
 Several public sector undertakings (PSUs) have, in the past, used GATE scores for screening for providing a salaried employment. A select few such organizations are: Bhabha Atomic Research Centre, Bharat Heavy Electricals Limited, Indian Oil Corporation Limited, National Thermal Power Corporation, Power Grid India, etc. Also, various institutions abroad such as universities in Singapore give preference to GATE qualified students for admission into their Masters or Doctoral studies.
 
-##The DRDO Scientist Entry Test (SET)
+The DRDO Scientist Entry Test (SET)
+-----------------------
 
 
 DRDO SET, whenever required, is conducted in the month of September, depending on the requirements, in order to provide equal opportunity to all students from different educational institutions in view of the increasingly wide variation in the marking pattern of different educational institutions in the country. DRDO SET exam is of three hours duration consisting of two sections viz. Section ‘A’ of 100 questions to test the candidate’s knowledge in the subject of Post Graduation and Section ‘B’ of 50 questions to the candidate’s ability in analytical and qualitative skills, current affairs and general awareness to test the aptitude and scientific knowledge required for Applied Research & Development. DRDO SET exam is conducted only for those subjects where vacancies are sizable in number. Details of eligible candidates, examination schedule, result of the exam, schedule of interviews and list of selected candidates are made available from time to time on their website (www.rac.gov.in)
@@ -59,7 +62,8 @@ In cases, where very few vacancies are available, no SET exam is conducted and t
 
  
 
-##Bhabha Atomic Research Centre (BARC)
+Bhabha Atomic Research Centre (BARC)
+-----------------------
 
 
 BARC offers some of the best opportunities for physicists. Direct recruitments are usually limited and reserved for PhD holders. However, they run an excellent training school offering two different schemes as follows:
@@ -88,7 +92,8 @@ Selection to OCES/DGFS is a two-step process: Screening to short-list candidates
 
  
 
-##The Oil and Natural Gas Corporation (ONGC)
+The Oil and Natural Gas Corporation (ONGC)
+-----------------------
 
 
 Oil and Natural Gas Corporation (ONGC) is a Maharatna company. Almost every year it recruits people from different backgrounds. Since ONGC is involved in the exploration and production of hydrocarbons it recruits students with physics background for jobs that will be interdisciplinary in nature, along with Geophysics and Geology. One of the best jobs on offer is ONGC is Class-I executive (E-1) for which there were are four categoriesapplicable to physics postgraduates, namely, E&T, Geophysics (Surface and Wells), and Reservoir. The Company offers one of the best compensation packages in cost to company (CTC) terms in the country with opportunity of merit-oriented advancement in a professionally managed organization focused on growth.
@@ -97,14 +102,16 @@ ONGC doesnot have a fixed schedule about the recruitment and Graduates Trainees 
 
  
 
-##The Indian Oil Corporation (IOC)
+The Indian Oil Corporation (IOC)
+-----------------------
 
 
 Indian Oil Corporation is a Navaratna public sector company and is the largest commerical enterprise in India. If you can get at least three years industrial experience, the IOC occassionally calls for the post of Assistant Officers. Postgraduates in Physics, Chemistry or Mathematics can apply online for this post if they have experience in areas like processing, manufacturing, logistics, sales & distribution, services etc. However, experience in teaching, research and internship during or before postgraduation will not be counted as industrial experience. Applicants will be shortlisted on the basis of their GATE score for further selection process. The last application was called for in September 2012 and GATE 2013 score was used for shortlisting. Watchout for oncoming advertisements if you have a valid GATE score or have some plans to take the GATE exam soon. Age limit for this post is 30 and restrictions will be relaxed for SC/ST and OBC candidates based on the Presidential directive.
 
  
 
-##The CSIR-UGC NET Exam for JRF and LS
+The CSIR-UGC NET Exam for JRF and LS
+-----------------------
 
 
 The CSIR-UGC NET Exam for Junior Research Fellowship and Eligibility for Lectureship has become the norm for all aspiring postgraduate students of science in India to lead a successful career in research or academia. The exam has a Single Paper Test having Multiple Choice Questions (MCQs) with three different parts. It is therefore important to practice the art of scoring in such exams and the only way to succeed is to get a good grasp of the fundamentals of the subject.
@@ -113,7 +120,8 @@ The CSIR-UGC NET Exam for Junior Research Fellowship and Eligibility for Lecture
 
 The NET is held twice every year: in June/July and December. Keep an eye on the CSIR website (http://csirhrdg.res.in) which will tell you about all that you need to apply for the test. Before filling in the form, make it a point to have all the details with you (especially the subject code and centre code) since you won’t be able to change anything later on.
 
-###Writing the Exam
+Writing the Exam
+-----------------------
 
 The physical sciences exam will be held in the morning session and will be of 3 hours duration. The pattern for the Single Paper MCQ test shall be as given below:-
 
@@ -130,7 +138,8 @@ total marks allocated to this section shall be 70 out of 200. The maximum number
 
  
 
-###Important Points to Note:
+Important Points to Note:
+-----------------------
 
  In all the subject areas of the NET the actual number of questions asked and to be attempted in each section may vary from exam to exam.
 There will be negative marking @25% for each wrong answer.
@@ -138,7 +147,8 @@ To enable the candidates to go through the questions, thequestion paper booklet 
 The answer sheet (OMR sheet)shall be distributed at the scheduled time of the exam.
  
 
-###General Strategy
+General Strategy
+-----------------------
 
 Considering the new pattern, we find that the key part of the exam is the last one. Here we have 50% of the total marks allotted and the questions will be from advanced physics topics. The next priority should be given to Part ‘B’ that has 70 marks. First attempt the questions you are absolutely clear and then attempt the remaining questions. There is negative marking and it takes practice and patience to answer this paper promptly so that you should avoid questions which you cannot score. If you have time, recheck your answersand try to get the maximum out of section ‘A’. To summarise:
 
@@ -149,16 +159,16 @@ Section B carries 35% weight with 3 – 3.5 marks for each question.
 General aptitude section can be tackled with a little bit of practice with similar questions from public exams.
 
  
-
-###How to Avoid a Disaster?
+How to Avoid a Disaster?
+-----------------------
 
 The usual saying is, “when the going gets tough, only the tough get going.” So cover the difficult, yet important, portions of the subject to score a maximum. Candidates with good preparation survive in all situations and objective type questions demand good practice (unless, of course, you are a genius)! One thing you will notice among all those who qualify the test in one sitting is that they all show a kind of passion towards the subject and that will surely drive their entire career.
 
 Though we cannot say anything about the cut off marks, experience tells that one has to score well in all parts of the exam to get a JRF. Some may have a tendency to give it up feeling dejected about the first part of the exam. Be cool in your approach to the exam and never give up during the examination by doing things like answering all the multiple choice questions randomly based on luck or feeling dejected of your performance. There is plenty of time to prepare and perform well.
 
  
-
-###Why Negative Marking?
+Why Negative Marking?
+-----------------------
 
 Negative marking is incorporated in any objective type examination to nullify the effect of gambling. If you look at it statistically, the maximum probable score one can get is 25% out of100 having four choices each. Remember, this is the maximum and sometimes there is a remote probability that you score a cent percentage. Rather, experience may tell you that you get relatively low score when you leave things to chance alone. Negative marking with one-fourth of the marks given to a correct answer tries to reduce the marks by chance.In examinations with objective type multiple choice questions (MCQs), there is a tendency called the ‘Red Wire Syndrome’ which means that one may answer all questions whether he or she knows the correct answer or not. If we can classify the questions into three categories: 1) Easy, 2) Fifty – Fifty, and 3) Extremely Lucky, indicating one knows the correct answer, possible but some doubt still prevails, and almost impossible, respectively. The ‘red wire syndrome’ is the tendency to answer all the questions, which is disastrous, just like a child who touches a ‘red hot wire’ seeing it as something beautiful! Be careful as the section C has 5 marks per question and a wrong answer would award you -1.25 in return!
 
@@ -166,7 +176,8 @@ The key to success lies in answering all the ‘easy’ ones, and leaving out th
 
  
 
-##Syllabus Based Strategy
+Syllabus Based Strategy
+-----------------------
 
  Part A (15 x 2 = 30 Marks)
 
@@ -178,11 +189,13 @@ Let us set the target for this session as 12 correct answers out of 20 questions
 
  
 
-##Physics Core (Part B & C)
+Physics Core (Part B & C)
+-----------------------
 
 Before you proceed to master the syllabus and art of scoring in the core physics area, take a break and think about your basic physics understanding. If it is not good enough, it is always recommended that you lay the foundation first and build further only on a solid ground. Some books and links are given below, but remember: “Working out your problems is the only key to success.” Given that the entire test is objective, good fundamentals and a problem solving strategy can easily get you a JRF!
 
-###Recommendations for General Reading:
+Recommendations for General Reading:
+-----------------------
 
  NCERT Books on Physics – Go down to whichever level you want to and read up to class XII. Never a waste of time! Don’t worry about the costs: go to www.ncert.nic.in and download them as you wish!
 Principles of Physics – Raymond A. Serway & John W. Jewett: This best-selling, calculus-based text by award winning teachers is recognized for its carefully crafted, logical presentation of the basic concepts and principles of physics.
@@ -198,11 +211,12 @@ A Student’s Guide to Vectors and Tensors, Daniel Fleisch, Cambridge University
 
  
 
-##Part B (20 x 3.5 = 70 Marks)
+Part B (20 x 3.5 = 70 Marks)
+-----------------------
 
-##Syllabus & Strategies
 
-###Mathematical Methods of Physics 
+Mathematical Methods of Physics 
+-----------------------
 
 Dimensional analysis. Vector algebra and vector calculus. Linear algebra, matrices, Cayley-Hamilton Theorem. Eigenvalues and eigenvectors. Linear ordinary differential equations of first & second order, Special functions (Hermite, Bessel, Laguerre and Legendre functions). Fourier series, Fourier and Laplace transforms. Elements of complex analysis, analytic functions; Taylor & Laurent series; poles, residues and evaluation of integrals. Elementary probability theory, random variables, binomial, Poisson and normal distributions. Central limit theorem.
 
@@ -221,7 +235,8 @@ Complex Variables – Churchill (McGraw-Hill)
 Mathematical Methods in Classical and Quantum Physics – Tulsi Dass and Satish K. Sharma (University Press – 1998)
  
 
-###Classical Mechanics
+Classical Mechanics
+-----------------------
 
 Newton’s laws. Dynamical systems, Phase space dynamics, stability analysis. Central force motions. Two body Collisions – scattering in laboratory and Centre of mass frames. Rigid body dynamics- moment of inertia tensor. Non-inertial frames and pseudo-forces. Variational principle. Generalized coordinates. Lagrangian and Hamiltonian formalism and equations of motion. Conservation laws and cyclic coordinates. Periodic motion: small oscillations, normal modes. Special theory of relativity – Lorentz transformations, relativistic kinematics and mass–energy equivalence.
 
@@ -248,7 +263,8 @@ A Student’s Guide to Maxwell’s Equations – Daniel Fleisch (Cambridge Unive
 Modern Optics – Robert D. Guenther (Wiley – 1990).
  
 
-##Quantum Mechanics
+Quantum Mechanics
+-----------------------
 
 Wave-particle duality. Schrödinger equation (time-dependent and time-independent). Eigenvalue problems (particle in a box, harmonic oscillator, etc.).Tunnelling through a barrier. Wave-function in coordinate and momentum representations.Commutators and Heisenberg uncertainty principle.Dirac notation for state vectors. Motion in a central potential: orbital angular momentum, angular momentum algebra, spin, addition of angular momenta; Hydrogen atom. Stern-Gerlach experiment. Time-independent perturbation theory and applications. Variational method. Time dependent perturbation theory and Fermi’s golden rule, selection rules. Identical particles, Pauli Exclusion Principle, spin-statistics connection.
 
@@ -265,7 +281,8 @@ Quantum Mechanics an Introduction – Walter Greiner (Springer).
 Modern Quantum Mechanics – J. J. Sakurai.
  
 
-##Thermodynamic and Statistical Physics
+Thermodynamic and Statistical Physics
+-----------------------
 
 Laws of thermodynamics and their consequences. Thermodynamic potentials, Maxwell relations, chemical potential, phase equilibrium. Phase space, micro- and macro-states. Micro-canonical, canonical and grand-canonical ensembles and partition functions. Free energy and its connection with thermodynamic quantities. Classical and quantum statistics. Ideal Bose and Fermi gases. Principle of detailed balance. Black body radiation and Planck’s distribution law.
 
@@ -283,8 +300,8 @@ Statistical Mechanics – K. Huang (Wiley).
 Elementary Statistical Physics – C. Kittel (John Wiley & Sons).
 Introduction to Modern Thermodynamics – Dilip Kondepudi (John Wiley & Sons).
  
-
-###Electronics and Experimental Methods
+Electronics and Experimental Methods
+-----------------------
 
 Semiconductor devices (diodes, junctions, transistors, field effect devices, homo- and hetero-junction devices), device structure, device characteristics, frequency dependence and applications. Optoelectronic devices (solar cells, photo-detectors, LEDs). Operational amplifiers and their applications.Digital techniques and applications (registers, counters, comparators and similar circuits).A/D and D/A converters. Microprocessor and microcontroller basics. Data interpretation and analysis. Precision and accuracy. Error analysis, propagation of errors. Least squares fitting.
 
@@ -301,15 +318,16 @@ Practical Physics – G. L. Squires, Cambridge University Press (2001), 4thEdn.
 An Introduction to Experimental Physics, Colin Cook, Routledge (1996).
 Part ‘C’
 
-##Mathematical Methods of Physics 
+Mathematical Methods of Physics 
+-----------------------
 
 Syllabus: Green’s function. Partial differential equations (Laplace, wave and heat equations in two and three dimensions). Elements of computational techniques: root of functions, interpolation, extrapolation, integration by trapezoid and Simpson’s rule, Solution of first order differential equation using Runge-Kutta method. Finite difference methods. Tensors. Introductory group theory: SU (2), O (3).
 
 The thrust is on methods to solve differential equations which are crucial to the study of any Physics. I am sure that most of us do computational physics using numerical techniques. Be good at the basics of Taylor’s series expansion. Most numerical methods are improvisation of the Euler’s method. We can expect a problem based on Green’s function method of solving mostly boundary value problems. Finally two important topics in advanced physics come to the fore: Tensors are unavoidable in the study of cosmology and group theory is highly essential in several areas like condensed matter physics, statistical mechanics, quantum theory, spectroscopy and most importantly high energy physics. Books given in part B should be sufficient here as well. Give preference to solving problems in each area and have good basics of tensors and group theory.
 
  
-
-##Classical Mechanics
+Classical Mechanics
+-----------------------
 
 Syllabus: Dynamical systems, Phase space dynamics, stability analysis. Poisson brackets and canonical transformations. Symmetry, invariance and Noether’s theorem. Hamilton-Jacobi theory.
 
@@ -324,7 +342,8 @@ Dispersion relations in plasma. Lorentz invariance of Maxwell’s equation. Tran
 
 Workout this section using Griffiths and Jackson(if possible). Give some preference to relativistic dynamics and develop the concepts of Lorentz invariance and gauge invariance. One should be comfortable with the concept of scalar and vector fields and their role in generating electromagnetic disturbances over time and space. These concepts are pretty useful in quantum field theory also.
 
-##Quantum Mechanics
+Quantum Mechanics
+-----------------------
 
 Spin-orbit coupling, fine structure. WKB approximation. Elementary theory of scattering: phase shifts, partial waves, Born approximation. Relativistic quantum mechanics: Klein-Gordon and Dirac equations. Semi-classical theory of radiation
 
@@ -352,9 +371,8 @@ Statistical Mechanics – K. Huang (Wiley).
 Statistical Physics: An Introduction –D. Yoshioka (Springer).
  
 
- 
-
-##Electronics and Experimental Methods
+ Electronics and Experimental Methods
+-----------------------
 
 Linear and nonlinear curve fitting, chi-square test. Transducers (temperature, pressure/vacuum, magnetic fields, vibration, optical, and particle detectors). Measurement and control. Signal conditioning and recovery. Impedance matching, amplification (Op-amp based, instrumentation amp, feedback), filtering and noise reduction, shielding and grounding. Fourier transforms, lock-in detector, box-car integrator, modulation techniques. High frequency devices (including generators and detectors).
 
@@ -366,7 +384,8 @@ Considering the fact that experimental methods and data analysis are highly desi
 
  
 
-##Atomic & Molecular Physics
+Atomic & Molecular Physics
+-----------------------
 
 Quantum states of an electron in an atom. Electron spin.Spectrum of helium and alkali atom. Relativistic corrections for energy levels of hydrogen atom, hyperfine structure and isotopic shift, width of spectrum lines, LS & JJ couplings. Zeeman, Paschen-Bach & Stark effects. Electron spin resonance. Nuclear magnetic resonance, chemical shift. Frank-Condon principle. Born-Oppenheimer approximation. Electronic, rotational, vibrational and Raman spectra of diatomic molecules, selection rules. Lasers: spontaneous and stimulated emission, Einstein A& B coefficients. Optical pumping, population inversion, rate equation. Modes of resonators and coherence length.
 
@@ -382,7 +401,8 @@ Modern Spectroscopy – J. Michael Hollas (John Wiley & Sons – 2004).
 Laser Fundamentals – William T. Silfvast (Cambridge University Press – 2004).
  
 
-##Condensed Matter Physics
+Condensed Matter Physics
+-----------------------
 
 Bravais lattices. Reciprocal lattice. Diffraction and the structure factor. Bonding of solids. Elastic properties, phonons, lattice specific heat. Free electron theory and electronic specific heat. Response and relaxation phenomena. Drude model of electrical and thermal conductivity. Hall effect and thermoelectric power. Electron motion in a periodic potential, band theory of solids: metals, insulators and semiconductors. Superconductivity: type-I and type-II superconductors. Josephson junctions. Superfluidity. Defects and dislocations. Ordered phases of matter: translational and orientational order, kinds of liquid crystalline order. Quasi crystals.
 
@@ -397,10 +417,8 @@ Solid State Physics – Ashcroft and Mermin.
 Solid State Physics – Ali Omar (Pearson).
 Problems and Solutions in Solid State Physics – S. O. Pillai (New Age).
  
-
- 
-
-##Nuclear and Particle Physics
+Nuclear and Particle Physics
+-----------------------
 
 Basic nuclear properties: size, shape and charge distribution, spin and parity. Binding energy, semi-empirical mass formula, liquid drop model. Nature of the nuclear force, form of nucleon-nucleon potential, charge-independence and charge-symmetry of nuclear forces. Deuteron problem. Evidence of shell structure, single-particle shell model, its validity and limitations. Rotational spectra. Elementary ideas of alpha, beta and gamma decays and their selection rules. Fission and fusion. Nuclear reactions, reaction mechanism, compound nuclei and direct reactions. Classification of fundamental forces. Elementary particles and their quantum numbers (charge, spin, parity, isospin, strangeness, etc.). Gellmann-Nishijima formula. Quark model, baryons and mesons. C, P, and T invariance. Application of symmetry arguments to particle reactions. Parity non-conservation in weak interaction. Relativistic kinematics.
 
@@ -424,6 +442,7 @@ Introduction to Elementary Particle Physics – Khanna (Prentice Hall of India).
 
  
 
-###Note:
+Note:
+---------
 
 The views expressed in the post are personal to the author and they don’t bear any official accounts published by UGC or CSIR. Readers are encouraged to use their discretion while following the content of the article. You can follow the author at @jijopu or fb.com/jijopu.
