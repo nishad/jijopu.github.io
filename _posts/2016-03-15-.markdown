@@ -6,7 +6,7 @@ tags: [Artificial, Intelligence, Future, Machine, Learning, Robotics, Malayalam,
 categories: [Technology]
 permalink: ai
 ---
-(https://github.com/jijopu/jijopu.github.io/blob/master/artificial-intelligence-503588_960_720.jpg?raw=true)
+![alt text] (https://github.com/jijopu/jijopu.github.io/blob/master/artificial-intelligence-503588_960_720.jpg?raw=true)
 
 >നാണയപ്പെരുപ്പവും, ഇന്ധനവിലയും കുറഞ്ഞിട്ടും, മസാല ദോശയുടെ വില കുറയാത്തത് യന്ത്രവൽക്കരണത്തിന്റെ അഭാവം മൂലം – റിസർവ് ബാങ്ക് ഗവർണർ, രഘുറാം രാജൻ!
 
