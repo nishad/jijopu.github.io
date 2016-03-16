@@ -1,7 +1,7 @@
 title:            J's Musings
 description:      "Random thoughts on science, technology and education"
 logo:             logo.png
-disqus_shortname: jsmuse.disqus.com
+disqus_shortname: jsmuse
 share:            true
 dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
