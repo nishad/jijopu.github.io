@@ -1,5 +1,5 @@
 title:            J's Musings
-description:      "Random thouts on science, technology and education"
+description:      "Random thoughts on science, technology and education"
 logo:             logo.png
 disqus_shortname: jijopu
 share:            true
@@ -47,7 +47,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kolkata
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
