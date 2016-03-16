@@ -1,17 +1,19 @@
 ---
 layout: post
 published: true
-description: ""
-headline: ""
+description: Post on Career Options for Physics Students
+headline: CISR UGC NET
 modified: ""
-categories: null
+categories: 
+  - "null"
 tags: ""
 imagefeature: ""
 mathjax: false
-featured: false
+featured: true
 comments: false
 title: CSIR UGC NET and other Career Options in Physics after PG Degree
 ---
+
 
 ## Opportunities ahead
 
