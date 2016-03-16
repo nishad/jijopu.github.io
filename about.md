@@ -7,7 +7,7 @@ imagefeature: fourseasons.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/jijo.jpg" alt="Jijo P Ulahannan">
+  <img src="{{ site.url }}/images/jijo.jpg" alt="Jijo P Ulahannan" width="350px">
   <figcaption>Jijo P Ulahannan</figcaption>
 </figure>
 
