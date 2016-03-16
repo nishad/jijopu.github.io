@@ -7,13 +7,13 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url: http://nishad.github.io/jijopu.github.io
+url: http://jsmuse.in/
 
 # Owner/author information
 owner:
   name:           Jijo PU
   avatar:         jijo.jpg
-  email:          hmfaysal@alum.mit.edu
+  email:          jijo@jsmuse.in
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
@@ -72,7 +72,7 @@ kramdown:
 prose:
   rooturl: '_posts'
   siteurl: ''
-  relativeLinks: '/links.jsonp'
+  relativeLinks: 'http://jsmuse.in/links.jsonp'
   media: 'images'
   metadata:
     _posts:
