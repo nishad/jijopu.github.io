@@ -1,0 +1,46 @@
+---
+layout: post
+published: true
+description: ""
+headline: ""
+modified: ""
+categories: null
+tags: ""
+imagefeature: ""
+mathjax: false
+featured: false
+comments: false
+title: "Telecommunications and ICT: Drivers of Innovation to Bridge the Digital Divide"
+---
+
+There will be little dispute that there exists a “digital divide” among people irrespective of their location. It is defined as a gap within and between societies in the degree to which different groups have access to and use information and communications technologies (ICT) (DiMaggio et al. 2004b). We can attribute five main reasons to the origin of such a division for people’s inequality in accessing digital information. They are listed as below:
+
+High cost of infrastructure and access: The most basic elements to access digital information such as stable electricity, computers, wired or wireless telephone network are a luxury for a vast majority of the world’s population.
+Language: A majority of the world population is deprived of the digital information that is mostly in English.
+Illiteracy: Digital information mostly being textual makes it difficult for illiterate people to access. Absence of technical literacy in accessing digital content adds to the misery.
+Age: Older generation finds new technologies harder to access.
+Physical: Disabilities make the Internet and other digital content more difficult to use than they should be.
+International Telecommunications Union (ITU) annual reports and other studies have pointed out that the digital access divide has been coming down around 2005 owing to the proliferation of affordable hand held digital devices such as smartphones. However, even if the digital divide vanishes, there may arise a new divide that observers of the field call the knowledge divide. This is mainly due to the absence of technical finesse in accessing the digital knowledge through various digital platforms.
+
+According to Telecom Authority of India (TRAI) reports, India has reached 1 billion telephone connections in May 2005 India and it is expected that the country will touch 1 billion mobile phone connections by 2016. Digital divide can be abridged only if we address the five main reasons described above. ITU and UN millennium goals such as poverty eradication, universal education, gender equality, child and maternal health, environment protection, etc. cannot be achieved unless we address those hindrances to equal and cheap access to information. At the same time, there are initiatives like zero rating platforms like the intertnet.org that offers free connectivity to those who cannot access the Internet for cheap. However noble this idea may be, there are widespread protests against such initiatives mainly by those raising the net neutrality issue. An alternative, the government should think about utilising the Universal Obligation Fund (USOF) collected from mobile service providers towards providing cheaper access to the needy. This could be implemented by provide broadband recharge vouchers through direct benefit transfer mechanism for the economically weaker sections of the society.
+
+We have several initiatives for providing digital service to the people by the government as well as other agencies. However, most them forget the fact that a majority of the population lives on the other side of the digital divide. They don’t have sophisticated devices or state of the art technology to access the digital information. We need the present day digital access points like the Akshaya centres to be hubs of information and training rather than just form filling centres. We need technology and service that brings ease of use and access to the common man who uses only a basic mobile phone or basic computing devices available at the village computer centre. All over the world, many people are innovating to deliver such services to the people. Some examples are missed calls delivering maternal care to pregnant women in rural India, rural agricultural services provided by MSSRF in India, e-Choupal – a rural procurement system by ITC, i-Cow – an agricultural service platform in Africa that delivers all its service through service calls from basic mobiles, CGNET Swara – the rural citizen media service of the central eastern India, Inventure – a global credit score system to anyone with a mobile phone, the list goes on. These are services that reach to even the most common user. Last month Government of India has come out with a website (in 11 languages) as part of the national level initiative - India Development Gateway (InDG), dedicated for providing information / knowledge and ICT based knowledge products and services in the domain of social development. We still need more innovation in India considering our large population and the fact that only less than 20% of the population has access to the Internet.
+
+Differently abled people face several difficulties in accessing digital information. Assistive technologies are evolving to the help them but there is scope for large improvement. Researchers are developing assisted vision smart glasses incorporating mobile technologies such as Bluetooth and GPS, Braille e-book readers, finger readers, and mobile applications that can guide visually impaired people to move around with the help of their smartphone, all aimed to surpass the disability divide.
+
+Connected ageing, which refers to the elderly in the connected world, is another area that demands large-scale innovation. Key areas include health, wellness, and prevention; functional limitations and chronic disease management; and social connectedness to friends, family, and community organisations. This is crucial as the world is growing with more old population and digital information access decreases with age.
+
+Language barrier to information is the next hurdle and this happens mainly due to the domination of English and that too in textual form. Natural language computing is a major area of study. Movements such as the Indic Project have helped to bring down the language barrier to digital content in India.
+
+This years’ Ofcom study has revealed that six year olds understand digital technology better than adults. This is a major challenge before today’s educators because the kids are learning in a situation where information is accessed quickly and multiple learning avenues are open before the children. This may have reduced their attention span but they are privileged to access factual information at a faster pace than any other generation that lived before. Sooner or later education system may change to accommodate multiple leaning sources simultaneously and we will have more virtual universities delivering credit courses.
+
+Finally, there are five lessons to be learned when addressing the digital divide. They are:
+
+Focus on Digital Literacy: training on how to use the Internet is critical to closing the digital gap. The digital literary courses held at local public libraries were the most effective elements in encouraging broadband adoption. Many come to realise how integral the Internet had become to everyday tasks like paying bills, applying for jobs, searching for medical information and helping with kids’ homework. etc.
+Provide computers: While digital literacy is key, free or low-cost computers removed another significant barrier.
+Remove other financial barriers: Internet providers often require security deposits and a credit check before handing out equipment like routers and modems – making it harder for low-income people get service. Nonprofits should focus on finding a way to pay for those upfront costs.
+Low rates are still needed: The average rate for monthly Internet access, still prohibitive for many in the city.
+Partner for success: A range of partnerships between local community organisations, private companies, libraries and government were essential to this project’s achievements, and included a federal stimulus grant that brought in additional funding, and the donated, refurbished laptops.
+To pass the test with flying colours, we need to innovate more and spread the awareness about the need to have better access. Only then the world will be more equal for the 21st century humans. We also need to encourage our science and technology students to innovate bearing in mind the digital divide. Then only they can generate sustainable technology and businesses.
+
+Note: From the talk delivered on the World Telecommunication and Information Society Day (WTISD 2015) at the Kochi Chapter of IETE and IEEE.
