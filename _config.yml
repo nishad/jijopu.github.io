@@ -17,11 +17,11 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/jijopu
-  facebook:       facebook.com/jijopu
-  github:         jijopu.github.io      
-  instagram:      instragram.com/jijopu
-  linkedin:       linkedin.com/in/jijopu
+  twitter:        jijopu
+  facebook:       jijopu
+  github:         jijopu      
+  instagram:      jijopu
+  linkedin:       https://linkedin.com/in/jijopu
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/+JijoPUlahannan
 
