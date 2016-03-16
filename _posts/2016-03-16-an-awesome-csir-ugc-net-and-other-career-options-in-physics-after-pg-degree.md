@@ -10,7 +10,7 @@ imagefeature: ""
 mathjax: false
 featured: false
 comments: false
-title: An Awesome CSIR UGC NET and other Career Options in Physics after PG Degree
+title: CSIR UGC NET and other Career Options in Physics after PG Degree
 ---
 
 ## Opportunities ahead
@@ -164,15 +164,15 @@ Before you proceed to master the syllabus and art of scoring in the core physics
 
  ### Recommendations for General Reading:
 
- NCERT Books on Physics – Go down to whichever level you want to and read up to class XII. Never a waste of time! Don’t worry about the costs: go to www.ncert.nic.in and download them as you wish!
-Fundamentals of Physics – Resnick, Halliday and Walker: excellent introduction without much calculus.  Lots of problems and review questions. Read the book throughout and workout as many basic problems as possible.
-Physics for Scientists and Engineers - Raymond A. Serway & John W. Jewett: This best-selling, calculus-based text by award winning teachers is recognized for its carefully crafted, logical presentation of the basic concepts and principles of physics.
-Berkeley Physics Course, Vol. 1 – 5 (Tata McGraw-Hill): A very good bridge to cross from school level physics to the graduate level. They would give the necessary background for all our advanced studies and all the books are written by masters of the subject.
-Calculus and Analytical Geometry – Thomas and Finney (Pearson) {for those who want some basic math}.
-Concepts of Modern Physics – Arthur Beiser (Tata McGraw-Hill): Your pocket book to success in modern physics. Master this book and you are guaranteed of success!
-"HOW to BECOME a GOOD THEORETICAL PHYSICIST" by Gerard 't Hooft - A must read by the Nobel Laureate: http://www.phys.uu.nl/~thooft/theorist.html. This site contains a lot of free lecture notes and resources on several topics.
-Feynmann Lectures on Physics (3 volumes): highly recommended texts compiled from the undergraduate lecture course given by Feynman at Caltech.
-Jearle Walker: The Flying Circus of Physics, a book that poses (and answers) about a thousand questions concerned with everyday physics. The emphasis is strongly on phenomena that might be encountered in one's daily life (www.flyingcircusofphysics.com).
+1. NCERT Books on Physics – Go down to whichever level you want to and read up to class XII. Never a waste of time! Don’t worry about the costs: go to www.ncert.nic.in and download them as you wish!
+2. Principles of Physics - Raymond A. Serway & John W. Jewett: This best-selling, calculus-based text by award winning teachers is recognized for its carefully crafted, logical presentation of the basic concepts and principles of physics.
+3. Fundamentals of Physics – Resnick, Halliday and Walker: excellent introduction without much calculus.  Lots of problems and review questions. Read the book throughout and workout as many basic problems as possible.
+4. Berkeley Physics Course, Vol. 1 – 5 (Tata McGraw-Hill): A very good bridge to cross from school level physics to the graduate level. They would give the necessary background for all our advanced studies and all the books are written by masters of the subject.
+5. Calculus and Analytical Geometry – Thomas and Finney (Pearson) {for those who want some basic math}.
+6. Concepts of Modern Physics – Arthur Beiser (Tata McGraw-Hill): Your pocket book to success in modern physics. Master this book and you are guaranteed of success!
+7. "HOW to BECOME a GOOD THEORETICAL PHYSICIST" by Gerard 't Hooft - A must read by the Nobel Laureate: http://www.phys.uu.nl/~thooft/theorist.html. This site contains a lot of free lecture notes and resources on several topics.
+8. Feynmann Lectures on Physics (3 volumes): highly recommended texts compiled from the undergraduate lecture course given by Feynman at Caltech.
+
 Part B (20 x 3.5 = 70 Marks)
 
 ## Syllabus
@@ -187,13 +187,13 @@ Apart from linear algebra and calculus (start with NCERT), we should be comforta
 
 A new addition is probability theory that is essential to physics, especially experimental physics, statistical mechanics and quantum theory. If you are not comfortable with the elementary ideas, read Statistics text books by NCERT. Especially class XI book is ideal. Central limit theorem and various statistical distributions are important in physics. So have a good understanding of all these.
 
- NCERT class XI - XII books on Mathematics & Statistics.
-Mathematical Methods for Physicists – Arfken and Weber
-Mathematical Methods for Physicists: A concise introduction - Tai L. Chow (Cambridge University Press - 2000)
-Mathematical Techniques for Engineers and Scientists – Andrews and Phillips (SPIE Press)
-Mathematical Methods for Scientists and Engineers – Donald A. McQuarrie (University Science Books: California)
-Complex Variables – Churchill (McGraw-Hill)
-Mathematical Methods in Classical and Quantum Physics – Tulsi Dass and Satish K. Sharma (University Press – 1998)
+1. NCERT class XI - XII books on Mathematics & Statistics.
+2. Mathematical Methods for Physicists – Arfken and Weber
+3. Mathematical Methods for Physicists: A concise introduction - Tai L. Chow (Cambridge University Press - 2000)
+4. Mathematical Techniques for Engineers and Scientists – Andrews and Phillips (SPIE Press)
+5. Mathematical Methods for Scientists and Engineers – Donald A. McQuarrie (University Science Books: California)
+6. Complex Variables – Churchill (McGraw-Hill)
+7. Mathematical Methods in Classical and Quantum Physics – Tulsi Dass and Satish K. Sharma (University Press – 1998)
 
 ### Classical Mechanics
 
@@ -201,12 +201,12 @@ Newton’s laws. Dynamical systems, Phase space dynamics, stability analysis. Ce
 
 Not much to say about this basic paper in physics. The main aim is to go from basic laws of Newton to the general principles of Hamilton & Jacobi and through them solve almost all dynamical problems in the classical limits. Learn the tools and solve problems. Canonical transformations are powerful tools. Special relativity should be mastered and is crucial from the exam point of view. You should be comfortable solving all transformation equations and numerical problems in physics.
 
-Mechanics – Landau and Lifshitz (Pergamon Press)
-Classical Mechanics - R. Douglas Gregory (Cambridge University Press 2006).
-Classical Mechanics – Goldstein, Poole and Safko (Pearson) 3rdEdn.
-Lagrangian and Hamiltonian Mechanics – M. G. Calkin (World Scientific).
-Relativity – The Special and General Theory – A. Einstein.
-Introduction to Special Relativity – R. Resnick (Wiley).
+1. Mechanics – Landau and Lifshitz (Pergamon Press)
+2. Classical Mechanics - R. Douglas Gregory (Cambridge University Press 2006).
+3. Classical Mechanics – Goldstein, Poole and Safko (Pearson) 3rdEdn.
+4. Lagrangian and Hamiltonian Mechanics – M. G. Calkin (World Scientific).
+5. Relativity – The Special and General Theory – A. Einstein.
+6. Introduction to Special Relativity – R. Resnick (Wiley).
 
 ### Electromagnetic Theory
 
@@ -216,11 +216,11 @@ Solve Griffiths and you are done! Go topic by topic and not much to avoid here. 
 
 Notice the change in the syllabus which now includes some optics which can be had from Hecht. Daniel Fleisch introduces the heart and soul of EMT to an average student through his latest book, have a look at it, if you can. Irodov introduces the concepts of the subject briefly but aptly. It also has several worked out examples and problems.
 
-Basic Laws of Electromagnetism – I. E. Irodov (Mir Publishers).
-Introduction to Electrodynamics – D. J. Griffiths (Prentice Hall).
-Electromagnetics with Applications – Kraus and Fleisch (McGraw-Hill).
-A Student’s Guide to Maxwell’s Equations - Daniel Fleisch (Cambridge University Press2008).
-Modern Optics – Robert D. Guenther (Wiley - 1990).
+1. Basic Laws of Electromagnetism – I. E. Irodov (Mir Publishers).
+2. Introduction to Electrodynamics – D. J. Griffiths (Prentice Hall).
+3. Electromagnetics with Applications – Kraus and Fleisch (McGraw-Hill).
+4. A Student’s Guide to Maxwell’s Equations - Daniel Fleisch (Cambridge University Press2008).
+5. Modern Optics – Robert D. Guenther (Wiley - 1990).
 
 ### Quantum Mechanics
 
@@ -230,13 +230,13 @@ Quantum mechanics is the heart of modern physics and some good mathematical conc
 
 First three books are sufficient for any level; and both Zttili and Griffiths have several good problems and examples to help you with the exam. If you need a more elaborate and different book, resort to Greiner
 
-Quantum Mechanics – E. Merzbacher (John Wiley & Sons).
-Quantum Mechanics: Concepts and Applications - Nouredine Zettili, 2nd Edition (John-Wiley, 2009).
-Principles of Quantum Mechanics – R. Shankar (Kluwer Academic/Plenum Publishers).
-Introduction to Quantum Mechanics - David J. Griffiths (Prentice Hall).
-Textbook of Quantum Mechanics - P. M. Mathews and K. Venkatesan (Tata McGraw-Hill).
-Quantum Mechanics an Introduction – Walter Greiner (Springer).
-Modern Quantum Mechanics – J. J. Sakurai.
+1. Quantum Mechanics – E. Merzbacher (John Wiley & Sons).
+2. Quantum Mechanics: Concepts and Applications - Nouredine Zettili, 2nd Edition (John-Wiley, 2009).
+3. Principles of Quantum Mechanics – R. Shankar (Kluwer Academic/Plenum Publishers).
+4. Introduction to Quantum Mechanics - David J. Griffiths (Prentice Hall).
+5. Textbook of Quantum Mechanics - P. M. Mathews and K. Venkatesan (Tata McGraw-Hill).
+6. Quantum Mechanics an Introduction – Walter Greiner (Springer).
+7. Modern Quantum Mechanics – J. J. Sakurai.
 
 ### Thermodynamic and Statistical Physics
 
@@ -246,15 +246,15 @@ It is important to know the basic laws of thermodynamics and the relations that 
 
 Mathematical techniques are important to solve all problems in statistical mechanics and so try to work out the appendices of Pathria or any other book that explains those techniques. Your job is done when you are able to obtain the ‘partition function’ of any system that you are considering. One can, in theory, obtain the thermodynamic variables required to understand the system under consideration from the partition function. The partition function depends on whether you have a closed system (canonical ensemble) or an open system (grand canonical ensemble). Have good grasp of probability theory and try to understand how it can be applied to various situations in microscopic systems such as Fermi and Bose systems.
 
- An Introduction to Thermal Physics – Daniel V. Schroeder (Doring Kindersley India).
-Fundamental of Statistical and Thermal Physics – P. Reif (McGraw-Hill).
-Thermal Physics - Ralph Baierlein (Cambridge University Press).
-Concepts in Thermal Physics - Stephen J. Blundell and Katherine M. Blundell (Oxford University Press 2006).
-Introductory Statistical Mechanics – Bowley and Sanchez (Oxford)
-Statistical Mechanics – R. K. Patria (Butterworth Heinemann).
-Statistical Mechanics – K. Huang (Wiley).
-Elementary Statistical Physics – C. Kittel (John Wiley & Sons).
-Introduction to Modern Thermodynamics - Dilip Kondepudi (John Wiley & Sons).
+1. An Introduction to Thermal Physics – Daniel V. Schroeder (Doring Kindersley India).
+2. Fundamental of Statistical and Thermal Physics – P. Reif (McGraw-Hill).
+3. Thermal Physics - Ralph Baierlein (Cambridge University Press).
+4. Concepts in Thermal Physics - Stephen J. Blundell and Katherine M. Blundell (Oxford University Press 2006).
+5. Introductory Statistical Mechanics – Bowley and Sanchez (Oxford)
+6. Statistical Mechanics – R. K. Patria (Butterworth Heinemann).
+7. Statistical Mechanics – K. Huang (Wiley).
+8. Elementary Statistical Physics – C. Kittel (John Wiley & Sons).
+9. Introduction to Modern Thermodynamics - Dilip Kondepudi (John Wiley & Sons).
 
 ### Electronics and Experimental Methods
 
@@ -262,13 +262,13 @@ Semiconductor devices (diodes, junctions, transistors, field effect devices, hom
 
 Any good book covering the syllabus and all probable problems will do for this high scoring part. A good grasp of basic ideas in electronics is a prerequisite. Read books on experimental physics and data analysis (NCERT) to get an idea of the last topics in the syllabus.
 
-Electronic Devices and Circuits - Bogart, Beasley and Rico.
-Digital Principles and Applications – Malvino and Leech (McGraw-Hill).
-Electronic Principles – A. P. Malvino (Tata McGraw-Hill).
-Operational Amplifiers & Linear Integrated Circuits – R. Gayakawad (Pearson).
-Introduction to Digital Circuits - Theodore F. Bogart.
-Practical Physics - G. L. Squires, Cambridge University Press (2001), 4thEdn.
-An Introduction to Experimental Physics, Colin Cook, Routledge (1996).
+1. Electronic Devices and Circuits - Bogart, Beasley and Rico.
+2. Digital Principles and Applications – Malvino and Leech (McGraw-Hill).
+3. Electronic Principles – A. P. Malvino (Tata McGraw-Hill).
+4. Operational Amplifiers & Linear Integrated Circuits – R. Gayakawad (Pearson).
+5. Introduction to Digital Circuits - Theodore F. Bogart.
+6. Practical Physics - G. L. Squires, Cambridge University Press (2001), 4thEdn.
+7. An Introduction to Experimental Physics, Colin Cook, Routledge (1996).
 
 ## Part ‘C’
 
@@ -284,10 +284,12 @@ Syllabus: Dynamical systems, Phase space dynamics, stability analysis. Poisson b
 
 It is not very difficult to cover these topics. Use standard books and try to find the ways to analyse dynamical problems using phase space diagrams. Some hindsight of analytical geometry and calculus will help you here. We can expect good but easily answerable questions from this section. Poisson bracket algebra and canonical transformations are good area of quantitative questions. Symmetry, a consequence of Noether’s theorem, naturally leads to H-J theory and easy analysis of complex problems. Canonical transformations are relevant here as well. One should be comfortable enough to write the equations of motion using the Lagrangian and Hamiltonian approach. Next step is to use the appropriate transformation that will give the Hamiltonian that will be zero, indicating the constant momentum curves in the phase space diagram.
 
-Classical Mechanics - R. Douglas Gregory (Cambridge University Press 2006).
-Classical Mechanics – Goldstein, Poole and Safko (Pearson) 3rd Edn.
-Lagrangian and Hamiltonian Mechanics – M. G. Calkin (World Scientific).
-Electromagnetic Theory
+1. Classical Mechanics - R. Douglas Gregory (Cambridge University Press 2006).
+2. Classical Mechanics – Goldstein, Poole and Safko (Pearson) 3rd Edn.
+3. Lagrangian and Hamiltonian Mechanics – M. G. Calkin (World Scientific).
+
+### Electromagnetic Theory
+
 Dispersion relations in plasma. Lorentz invariance of Maxwell’s equation. Transmission lines and wave guides. Radiation- from moving charges and dipoles and retarded potentials
 
 Workout this section using Griffiths and Jackson(if possible). Give some preference to relativistic dynamics and develop the concepts of Lorentz invariance and gauge invariance. One should be comfortable with the concept of scalar and vector fields and their role in generating electromagnetic disturbances over time and space. These concepts are pretty useful in quantum field theory also.
@@ -298,25 +300,12 @@ Spin-orbit coupling, fine structure. WKB approximation. Elementary theory of sca
 
 Not much to say about these topics. All are attempts to explain fine results from the labs and some elementary phenomena such as interaction between particles (light too!). We can easily cover these topics using books given in section B above. Try to practice questions based on these sections. A useful book could be the Schaum’s Outlines in Quantum Mechanics which is a good practice book for these topics.
 
-Modern Quantum Mechanics – J. J. Sakurai
-Quantum Mechanics – E. Merzbacher (John Wiley & Sons).
-Principles of Quantum Mechanics – R. Shankar (Kluwer Academic/Plenum Publishers).
-Schaum’s outlines – Quantum Mechanics – Y. Peleg, et. el. (Tata McGraw-Hill).
-
 ### Thermodynamic and Statistical Physics
 
 First-and second-order phase transitions. Diamagnetism, paramagnetism, and ferromagnetism. Ising model. Bose-Einstein condensation. Diffusion equation. Random walk and Brownian motion. Introduction to non-equilibrium processes.
 
 Not much to cover under this topic. I believe that the important topics in this section are the theory of dia, para and ferromagnetism; Ising model and BE condensation; all available from Patria and Huang. Get a grip of phase transitions from Zemansky and then workout the necessary statistical theory from other advanced books. These are not very easy to digest but worthy of an attempt. Non-equilibrium processes are crucial to many advanced research problems today. Develop a very good understanding of the Diffusion problem starting with statistical and thermodynamic principles and is crucial to many problems in solid state physics and advanced physics problems.
 
-Books
-
-Thermodynamics – Zemansky.
-Concepts in Thermal Physics - Stephen J. Blundell and Katherine M. Blundell (Oxford University Press 2006).
-Introductory Statistical Mechanics – Bowley and Sanchez (Oxford)
-Statistical Mechanics – R. K. Patria (Butterworth Heinemann).
-Statistical Mechanics – K. Huang (Wiley).
-Statistical Physics: An Introduction –D. Yoshioka (Springer).
 
 ### Electronics and Experimental Methods
 
@@ -324,9 +313,8 @@ Linear and nonlinear curve fitting, chi-square test. Transducers (temperature, p
 
 Considering the fact that experimental methods and data analysis are highly desirable for any future experimental physicist, this is beneficial for future researchers in today world of sophisticated experiments. Apart from that we can expect at least one good question from this section. Even though these topics are much beyond the grasp of most postgraduate students in colleges across the country, try to get some knowledge using the books given below or simply get to know about them by visiting the nearest university or Internet. It is often helpful if you can talk to some researcher about the needs for such sophisticated research methods.
 
-1       Practical Physics - G. L. Squires, Cambridge University Press (2001).
-
-2       An Introduction to Experimental Physics, Colin Cook, Routledge (1996).
+1. Practical Physics - G. L. Squires, Cambridge University Press (2001).
+2. An Introduction to Experimental Physics, Colin Cook, Routledge (1996).
 
 
 ### Atomic & Molecular Physics
@@ -350,10 +338,10 @@ This is a crucial paper worth spending time. In physics research, some of the mo
 
 Knowledge of statistical and quantum mechanics will be highly helpful. Most of the bulk properties are derived from microscopic analysis of matter. It is important to notice that the temperature dependence of many material characteristics such as heat capacity, electrical conductivity, and magnetic properties are obtained through quantum theory using statistical methods. Syllabus follows the contents of Kittel which is the bible of condensed matter physics but not a good text book. It contains the clue to any particular issues in the subject but make judicious use of other books as well. Azhcroft and Mermin give a good account of the Drude model and the electrical, thermal and optical properties of solids.
 
-Introduction to Solid State Physics – C. Kittel (Wiley)
-Solid State Physics – Ashcroft and Mermin.
-Solid State Physics – Ali Omar (Pearson).
-Problems and Solutions in Solid State Physics – S. O. Pillai (New Age).
+1. Introduction to Solid State Physics – C. Kittel (Wiley)
+2. Solid State Physics – Ashcroft and Mermin.
+3. Solid State Physics – Ali Omar (Pearson).
+4. Problems and Solutions in Solid State Physics – S. O. Pillai (New Age).
 
 ### Nuclear and Particle Physics
 
@@ -363,14 +351,12 @@ There is not much change from the previous exam here. Only challenge here is the
 
 Nuclear models, semi empirical mass formula, nuclear stability, and ideas of different counters can come in handy. In case of reactions and emissions, beta particle decay is important. Follow different mechanisms possible within a nucleus. Elementary particle physics can be tougher for some but learn the classification of particles with the aid of some group theory and general reading. Learn to solve any nuclear or elementary particle reactions using the basic conservation laws used to group them. Hypercharge, Iso-spin, Baryon or Lepton Number, Strangeness, etc., are not that difficult to digest. Ideas of violation of parity, CPT, etc., will help. Questions from this section mostly follow the syllabus and ref. #1 and #2 are very useful to cover the syllabus. One can easily find books that give good coverage of nuclear physics.
 
-### Books
-
-Introduction to Nuclear and Particle Physics – A. Das and T. Ferbel (World Scientific – 2005).
-The Particle Hunters - Yuval Ne'eman and Yoram Kirsh (Cambridge University Press, 1996).
-Subatomic Physics - Ernest M. Henley and Alejandro Garcia (World Scientific, 2007).
-An Introduction to Nuclear Physics – W. N. Cottingham and D. A. Greenwood (Cambridge University Press, 2004).
-Particles and Nuclei: An Introduction to the Physical Concepts – Bogdan Povh et. al. (Springer, 2006).
-Introduction to Elementary Particle Physics – Khanna (Prentice Hall of India).
+1. Introduction to Nuclear and Particle Physics – A. Das and T. Ferbel (World Scientific – 2005).
+2. The Particle Hunters - Yuval Ne'eman and Yoram Kirsh (Cambridge University Press, 1996).
+3. Subatomic Physics - Ernest M. Henley and Alejandro Garcia (World Scientific, 2007).
+4. An Introduction to Nuclear Physics – W. N. Cottingham and D. A. Greenwood (Cambridge University Press, 2004).
+5. Particles and Nuclei: An Introduction to the Physical Concepts – Bogdan Povh et. al. (Springer, 2006).
+6. Introduction to Elementary Particle Physics – Khanna (Prentice Hall of India).
 
 ### Note:
 
