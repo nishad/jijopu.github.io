@@ -2,12 +2,12 @@
 layout: page
 permalink: /about/index.html
 title: Jijo P Ulahannan
-tags: [Hossain, Mohd, Faysal, hmfaysal]
-imagefeature: fourseasons.jpg
+tags: [Jijo, Physics, Blog, JsMuse]
+imagefeature: jijo.jpg
 chart: true
 ---
 <figure>
-  <img src="{{ site.url }}/images/jijo.jpg" alt="Jijo P Ulahannan" width="350px">
+  <img src="{{ site.url }}/images/jijo-wbg.jpg" alt="Jijo P Ulahannan">
   <figcaption>Jijo P Ulahannan</figcaption>
 </figure>
 
