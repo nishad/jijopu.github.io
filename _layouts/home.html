@@ -1,22 +1,8 @@
 <!DOCTYPE html>
 <html>
-<!--
-====================================================
-    __  ____  ______________  _______ ___    __ 
-   / / / /  |/  / ____/   \ \/ / ___//   |  / / 
-  / /_/ / /|_/ / /_  / /| |\  /\__ \/ /| | / /  
- / __  / /  / / __/ / ___ |/ /___/ / ___ |/ /___
-/_/ /_/_/  /_/_/   /_/  |_/_//____/_/  |_/_____/
-                                                     
-====================================================
-Owner Name: Hossain Mohammad Faysal
-Profile: https://www.facebook.com/hmfaysal
-Version: 1.1
-Description: Awesome dude, awesome life
-====================================================
--->
 <head>
 {% include head.html %}
+
 </head>
 <body class="home-template" itemscope itemtype="http://schema.org/WebPage">
 <header class="notepad-site-head">
@@ -63,5 +49,27 @@ Description: Awesome dude, awesome life
     {% include footer.html %}
 
 {% include scripts.html %}  
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
+
+<script type="text/javascript">
+var url = "https://api.nasa.gov/planetary/apod?api_key=9aHK2sL16UJMnsxyLPSFIPLh37PSk8UclcXjBWXD";
+$.ajax({
+  url: url,
+  success: handleResult
+});
+function handleResult(result){
+  if(result.media_type == "video") {
+    //$('.notepad-site-head-content').css('background', 'url({{ site.url }}/images/covers/cover-01.jpg)');
+    $(".notepad-site-head-content").backstretch("{{ site.url }}/images/covers/cover-01.jpg");
+  }
+  else {
+    // $('.notepad-site-head-content').css('background', 'url(' + result.url + ') no-repeat fixed');
+    // $(".notepad-site-head-content").backstretch("{{ site.url }}/images/covers/cover-01.jpg");
+    $(".notepad-site-head-content").backstretch(result.url);
+  }
+}
+</script>
+
 </body>
 </html>
