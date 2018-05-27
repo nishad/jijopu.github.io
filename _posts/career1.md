@@ -5,7 +5,7 @@ description: About Gravitational Waves
 headline: ഉപരി പഠനവും തൊഴിൽ സാദ്ധ്യതകളും
 modified: ""
 categories: 
-  - physics
+  - education
 tags: "career"
 imagefeature:
 mathjax: true
